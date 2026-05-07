@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><b>Hi, I'm Mattia Grimaldi (Zagith) </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <h1><b>Hi, I'm Zagith </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&width=550&lines=Senior+C%23+.NET+Developer;B2B+Tech+Partner;Backend+Architecture;Cloud+%26+CI%2FCD"/>
